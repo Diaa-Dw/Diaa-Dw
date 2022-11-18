@@ -24,7 +24,7 @@
 </div>
   
 <div>
-  <h1>Hi</h1>
+  <h1 align="left">Hi</h1>
 <div align="right">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaa99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
