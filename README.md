@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diaa H. H. Dwikat</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
-<img src="https://i.pinimg.com/originals/38/7e/4f/387e4f52081bfebd6ba96d9d784e9f94.gif" style="border-radius:5px" width="400" height="250" align="right" alt="coding">
+<img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" style="border-radius:5px" width="400" align="right" alt="coding">
 - 🔭 I’m currently working on **react project**
 
 - 💬 Ask me about **react**
