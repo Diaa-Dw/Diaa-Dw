@@ -19,7 +19,7 @@
 <div align="center">
 
  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Diaa99&theme=android-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=012E40&ring=F2E3D5&stroke=F2E3D5&currStreakNum=F2E3D5&border=026773&currStreakLabel=04BF8A&sideNums=F2E3D5&sideLabels=04BF8A&fire=04BF8A&dates=04BF8A)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Diaa99&theme=android-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=3e4754&ring=F2E3D5&stroke=F2E3D5&currStreakNum=F2E3D5&border=026773&currStreakLabel=04BF8A&sideNums=F2E3D5&sideLabels=04BF8A&fire=04BF8A&dates=04BF8A)](https://git.io/streak-stats)
 
 
 
