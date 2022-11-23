@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" style="border-radius:20%" width="400" align="right" alt="coding">
 - 🔭 I’m currently working on **react project**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **JS**
 
 - 📫 How to reach me **dyaadwekat99@gmail.com**
 
@@ -31,6 +31,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaa99)](https://github.com/Diaa99/github-readme-stats)
 
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaa99)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
