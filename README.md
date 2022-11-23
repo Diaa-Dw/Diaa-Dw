@@ -30,7 +30,7 @@
 <div mg-top="4rem" align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaa99&bg_color=3e4754&text_color=FFF&title_color=FFF&hide_border)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaa99&bg_color=3e4754&text_color=FFF&title_color=FFF&border_color=3e4754)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  
