@@ -28,11 +28,11 @@
 
 
 <div mg-top="4rem" align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaa99)](https://github.com/Diaa99/github-readme-stats)
 
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaa99)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+ 
   
 
