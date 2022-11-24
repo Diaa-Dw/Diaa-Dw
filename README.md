@@ -19,7 +19,7 @@
 <div align="center">
 
  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Diaa99&theme=transparent&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=22272e&ring=F2E3D5&stroke=F2E3D5&currStreakNum=F2E3D5&border=026773&currStreakLabel=04BF8A&sideNums=F2E3D5&sideLabels=04BF8A&fire=04BF8A&dates=04BF8A)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Diaa99&theme=transparent&border=F2E3D5&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=22272e&ring=F2E3D5&stroke=F2E3D5&currStreakNum=F2E3D5&border=026773&currStreakLabel=04BF8A&sideNums=F2E3D5&sideLabels=04BF8A&fire=04BF8A&dates=04BF8A)](https://git.io/streak-stats)
 
 
 
@@ -30,7 +30,7 @@
 <div mg-top="4rem" align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaa99&bg_color=22272e&text_color=FFF&title_color=FFF&hide=Hack&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaa99&bg_color=22272e&text_color=FFF&title_color=FFF&hide=Hack&border=F2E3D5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  
