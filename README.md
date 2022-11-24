@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
 <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" style="border-radius:20%" width="400" align="right" alt="coding">
+
 - 🔭 I’m currently working on **react project**
 
 - 💬 Ask me about **JS**
