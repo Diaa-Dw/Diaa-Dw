@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diaa H. H. Dwikat</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img src="https://images.velog.io/images/polynomeer/post/3df226aa-b6ae-497d-9c59-466511dd19fc/ps.gif" style="border-radius:20%" width="400" align="right" alt="coding">
+<img src="https://images.velog.io/images/polynomeer/post/3df226aa-b6ae-497d-9c59-466511dd19fc/ps.gif" style="border-radius:20%" width="500" align="right" alt="coding">
 
 - 🔭 I’m currently working on **react project**
 
