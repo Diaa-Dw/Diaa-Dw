@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diaa H. H. Dwikat</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+<kbd>
 <img src="https://media1.giphy.com/media/buvK3QwgmlGQSW2IKz/giphy.gif?cid=790b76119c717934c8eab9a5e5096d68f03fe58230852544&rid=giphy.gif&ct=s" style="border-radius:20%" width="500" align="right" alt="coding">
-
+</kbd>
 - 🔭 I’m currently working on **react project**
 
 - 💬 Ask me about **JS**
