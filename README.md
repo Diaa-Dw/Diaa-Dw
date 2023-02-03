@@ -25,8 +25,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Diaa-Dw&theme=react" width="48%" >
 <br>
 
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=Diaa-Dw&theme=react-dark)
-<br>
+                                                            
 
 
 
