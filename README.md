@@ -17,7 +17,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9f015dea-f6a0-4b4b-99db-f1f182b6c3b2" width="460px"/>
 
-- 🌱 Currently sharpening my **React.js, Next.js, and TypeScript** skills while exploring **competitive coding** in **C++**.
+- 🌱 Currently sharpening my **React.js, Next.js, Node.js, Express and TypeScript** skills.
 
 - 📫 How to reach me: **diaa.h.h.dwikat@gmail.com**.
 
