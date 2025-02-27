@@ -114,12 +114,11 @@ Let's turn your ideas into reality!
 
 <br>
 
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
 
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=diaa-dw&theme=radical&hide_border=true" alt="Diaa Dwikat" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=diaa-dw" alt="Diaa Dwikat" width="390"/>
 </p>
 
