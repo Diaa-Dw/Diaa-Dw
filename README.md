@@ -119,6 +119,6 @@ Let's turn your ideas into reality!
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=diaa-dw" alt="Diaa Dwikat" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=diaa-dw&theme=gotham" alt="Diaa Dwikat" width="390"/>
 </p>
 
