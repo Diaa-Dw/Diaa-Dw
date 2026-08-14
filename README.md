@@ -1,124 +1,79 @@
-<!-- Banner 20232A -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ec75802c-d433-4c3f-99b1-4ad75e451e99" alt="Banner" style="width=100%; max-width=100%"/>
+  <img src="https://github.com/user-attachments/assets/ec75802c-d433-4c3f-99b1-4ad75e451e99" alt="Diaa Dwikat — Full-Stack Software Engineer" width="100%" />
 </p>
 
-
-
-<p align="center">
-👋 Hey! I'm Diaa Dwikat, a Frontend Developer passionate about building scalable, high-performance web apps with React.js and modern UI frameworks. 🚀 I love crafting seamless user experiences and exploring new tech to push web innovation. Let’s create something amazing! 💡✨
-</p>
-
-##
-
-<br>
-
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9f015dea-f6a0-4b4b-99db-f1f182b6c3b2" width="460px"/>
-
-- 🌱 Currently sharpening my **React.js, Next.js, Node.js, Express and TypeScript** skills.
-
-- 📫 How to reach me: **diaa.h.h.dwikat@gmail.com**.
-
-- 👯 Looking to collaborate on **open-source projects** and innovative web applications.
-
-- 🌎 Fluent in **Arabic** 📖 and continuously improving my **English & Turkish** skills 🌟.
-
-
-<br>
-<br>
-
-## 🏆 Goals:
-
-- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
-- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
-
-## 🚀 Future Endeavors:
-
-- 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
-- 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
-- 🤖 Build a project that demonstrates my knowledge of **AI** and **machine learning**.
-
-
-<br>
-
-<h2 align="center">📫 Connect with me</h2>
+<h1 align="center">Hi, I'm Diaa Dwikat 👋</h1>
 
 <p align="center">
-Looking to convert a Figma design into a web reality? Feel free to contact me. I'm here to make your vision come alive, and I promise to bring a friendly and charismatic touch to our collaboration. Web projects are also warmly welcomed.
+  <strong>Full-Stack Software Engineer</strong><br />
+  React · TypeScript · .NET · Python · Node.js
 </p>
 
 <p align="center">
-Let's turn your ideas into reality!
+  I build reliable, maintainable web applications—from responsive user interfaces
+  to backend services and API integrations.
 </p>
-<br />
 
-<div align = "center">
-    
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:diaa.h.h.dwikat@gmail.com)&nbsp;
-[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvinaguilar)](https://www.linkedin.com/in/diaa-dwikat-6b49401a1/)
-
-</div>
-
-<br>
-
-
-
-<div align = "center">
-
-<h2 align="center">🛠️ Languages and Tools</h2>
-
-<details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
-<br>
-  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-</details>
-
-<details open>
-<summary><b>🧰 Backend</b></summary>
-<br>
-
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-</details>
-
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
-</details>
-
-<details open>
-<summary><b>💻 Software and Tools</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-<br>
-![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-</details>
-
-</div>
-
-
-<br>
-
-
-
-<summary><b>🔥 Streak Stats</b></summary>
-<br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=diaa-dw&theme=gotham" alt="Diaa Dwikat" width="390"/>
+  <a href="https://www.linkedin.com/in/diaa-dwikat/">
+    <img src="https://img.shields.io/badge/LinkedIn-Diaa%20Dwikat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:diaa.h.h.dwikat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+## About me
+
+- 💼 Software Engineer at **Foothill Technology Solutions**
+- 🧩 Contributing to production features with **React and .NET**
+- 🤖 Experienced with AI-enabled and data-driven products using **Python and Flask**
+- 🔍 Focused on frontend architecture, API integration, debugging, testing, performance, and maintainable code
+- 🤝 Open to collaborating on meaningful open-source and product-focused projects
+- 🌍 Arabic speaker with professional working proficiency in English
+
+## Engineering toolkit
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### Backend and data
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Delivery and collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## Selected projects
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [MediSched](https://github.com/Diaa-Dw/MediSched) | A healthcare scheduling application with production-style workflows | JavaScript, web application architecture |
+| [Quizify](https://github.com/Diaa-Dw/Quizify) | Interactive quizzes, real-time feedback, answer review, and performance analysis | React, TypeScript |
+| [Popcorn](https://github.com/Diaa-Dw/Popcorn-app) | Movie discovery, ratings, watchlists, and external API integration | React, TypeScript, OMDb API |
+| [RecipeNest](https://github.com/Diaa-Dw/RecipeNest) | Recipe discovery, search, bookmarks, responsive UI, and theme support | React, JavaScript, styled-components |
+
+## How I work
+
+I care about clear requirements, thoughtful technical decisions, readable code, constructive reviews, and reliable delivery. I enjoy investigating problems across the stack and turning ambiguous product needs into practical software.
+
+## Let's connect
+
+If you are building a web platform, modernizing a frontend, integrating APIs, or developing an AI-enabled product, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/diaa-dwikat/) or [email](mailto:diaa.h.h.dwikat@gmail.com).
