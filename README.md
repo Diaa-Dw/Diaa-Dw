@@ -65,6 +65,7 @@
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
+| [Nomadia](https://github.com/Diaa-Dw/Nomadia) | A travel-booking platform with hotel discovery, search, booking, and administrative workflows | React, TypeScript, Material UI |
 | [MediSched](https://github.com/Diaa-Dw/MediSched) | A healthcare scheduling application with production-style workflows | JavaScript, web application architecture |
 | [Quizify](https://github.com/Diaa-Dw/Quizify) | Interactive quizzes, real-time feedback, answer review, and performance analysis | React, TypeScript |
 | [Popcorn](https://github.com/Diaa-Dw/Popcorn-app) | Movie discovery, ratings, watchlists, and external API integration | React, TypeScript, OMDb API |
